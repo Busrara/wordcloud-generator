@@ -24,3 +24,5 @@ You can see the image result here: https://github.com/Busrara/wordcloud-generato
 You can install the necessary libraries using `pip`:
 
 pip install gradio nltk wordcloud matplotlib Pillow
+
+Read my Medium writing on this topic for a better understanding: https://medium.com/@busraracoban/visualize-your-words-a-hands-on-guide-to-word-clouds-in-python-b1b145ec6045 📖
