@@ -4,7 +4,7 @@
 
 A simple and interactive Word Cloud Generator that we can use to create word clouds from our input text. The app offers customization options for word cloud shape, color palette, background color, and the option to exclude specific words.
 
-You can see the image result here: https://github.com/Busrara/wordcloud-generator/blob/main/Word%20generation%20image.p.webp 
+You can see the image result here: https://github.com/Busrara/wordcloud-generator/blob/main/Word%20generation%20image.webp
 
 ## Features
 - **Text Input**: Paste your text and generate a word cloud based on the most frequently used words.
